@@ -12,5 +12,7 @@ public class Base {
 		new Base().test();
 	}
 
-
+private void test1() {
+	
+}
 }
