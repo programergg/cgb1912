@@ -11,6 +11,7 @@ public class HasStatic {
 				hs1.x++;
 				HasStatic.x--;
 				System.out.println("x="+x);
+				System.out.println();
 			}
-
+			
 }
